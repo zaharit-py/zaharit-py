@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi! I'm Kirill
 
-<!--
-**zaharit-py/zaharit-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 I'm learning Python and developing Telegram bots.
 
-Here are some ideas to get you started:
+🛠 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+
+aiogram 3
+
+SQLite
+
+SQL
+
+Git & GitHub
+
+🚀 My Projects
+
+Telegram Shop Bot
+
+A demo Telegram store with a product catalog, shopping cart, orders, and an admin panel.
+
+🎯 Goals
+
+Improve my Python skills.
+
+Build useful Telegram bots.
+
+Work on real-world projects.
